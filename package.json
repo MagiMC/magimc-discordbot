@@ -1,5 +1,5 @@
 {
-  "name": "magimc-discordbot",
+  "name": "discord-bot-magimc",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "discord.js": "^14.23.2",
+    "discord.js": "^14.25.1",
     "dotenv": "^17.2.3"
   }
 }
